@@ -8,7 +8,7 @@ This repository contains my personal CV built with pure HTML & CSS — no framew
 
 ## 🌐 Live Preview
 
-👉 [View CV Online](https://abdullahhh0.github.io/Abdullah-CV/)
+👉 [View CV Online](https://abdullahhh0.github.io/23018065026/)
 
 ---
 
